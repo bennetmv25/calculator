@@ -6,7 +6,7 @@ a pocket calculator.
 [![Build Status](https://dev.azure.com/bennetmv/mycalculatorproject/_apis/build/status/bennetmv25.calculator?branchName=master)](https://dev.azure.com/bennetmv/mycalculatorproject/_build/latest?definitionId=3&branchName=master)
 
 The project contains a simple node.js application that exposes REST APIs
-to perform arithmetic on integers, and provides a test suite with mocha
+to perform arithmetic on integers, and provides a test suite with mochaa
 and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
